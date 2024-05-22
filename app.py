@@ -1,5 +1,3 @@
-imports streamlit as st
-
 print("Hello world")
 
 "Hello world"
