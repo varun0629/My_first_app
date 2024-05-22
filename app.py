@@ -1,5 +1,9 @@
-print("Hello world")
+import streamlit as st
 
-"Hello world"
+st.text("Streamlit App Hello world")
 
-"H"+"e"+"l"+"l"+"o"
+st.header("App header")
+
+st.header("My First App")
+
+ 
