@@ -1,4 +1,4 @@
-imports streamlien as st
+imports streamline as st
 
 print("Hello world")
 
